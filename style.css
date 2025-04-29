@@ -60,4 +60,20 @@ footer {
     border-bottom: 2px solid #ddd;
     padding-bottom: 0.5em;
     margin-bottom: 1em;
+<<<<<<< HEAD
+=======
+}}
+
+ul {
+    padding-left: 20px;
+}
+
+footer {
+    background-color: #4a90e2;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    margin-top: 3em;
+    font-size: 0.9em;
+>>>>>>> 9f1a70e2a97de4617fa55be133117915e97d47cc
 }
