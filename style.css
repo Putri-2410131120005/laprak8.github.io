@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     font-family: 'Trebuchet MS', Tahoma, Verdana, sans-serif;
     margin: 0;
@@ -40,8 +39,23 @@ section {
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
 }
-
 section h2 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+footer {
+    background-color: #4a90e2;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    margin-top: 3em;
+    font-size: 0.9em;section h2 {
     border-bottom: 2px solid #ddd;
     padding-bottom: 0.5em;
     margin-bottom: 1em;
@@ -59,61 +73,5 @@ footer {
     margin-top: 3em;
     font-size: 0.9em;
 }
-=======
-body {
-font-family: &#39;Trebuchet MS&#39;, Tahoma, Verdana, sans-serif;
-margin: 0;
-padding: 0;
-background-color: #f0f2f5;
-color: #333;
-}
-header {
-background-color: #4a90e2;
-color: white;
-text-align: center;
-padding: 2em 1em;
-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-nav {
-background-color: #3b74c5;
-text-align: center;
-padding: 1em 0;
-}
-nav a {
-color: white;
-text-decoration: none;
-margin: 0 15px;
-font-weight: bold;
-}
-nav a:hover {
-text-decoration: underline;
-}
-section {
-max-width: 800px;
-margin: 2em auto;
-padding: 1.5em;
-background-color: white;
-border-radius: 10px;
-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-}
 
-Laboratorium Pendidikan Komputer
-
-Semester Genap 2024/2025
-section h2 {
-border-bottom: 2px solid #ddd;
-padding-bottom: 0.5em;
-margin-bottom: 1em;
 }
-ul {
-padding-left: 20px;
-}
-footer {
-background-color: #4a90e2;
-color: white;
-text-align: center;
-padding: 1em;
-margin-top: 3em;
-font-size: 0.9em;
-}
->>>>>>> 4ddee2066a4727a4108ec29f047782caa6d5e225
