@@ -17,6 +17,7 @@ header {
 nav button {
     border: none;
     background-color: plum;
+    text-align: center;
     color: #000000;
     padding: 10px;
     font-weight: 600;
